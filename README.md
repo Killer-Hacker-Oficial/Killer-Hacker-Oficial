@@ -1,6 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Killer-Hacker-Oficial&hide=stars,prs,issues&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
